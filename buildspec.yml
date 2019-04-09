@@ -4,8 +4,8 @@ run-as: Linux-user-name
 
 env:
   variables:
-    key: "value"
-    key: "value"
+    key: "hoge"
+    key: "hoge"
   parameter-store:
-    key: "value"
-    key: "value"
+    key: "hoge"
+    key: "hoge"
